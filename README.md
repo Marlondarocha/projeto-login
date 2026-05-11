@@ -18,3 +18,6 @@ Projeto desenvolvido durante o curso de HTML5 e CSS3 do **CURSO EM VÍDEO - Gust
 [Acesse o site](https://marlondarocha.github.io/projeto-login/)
 
 📣 **PROJETO REALIZADO COM O AUXÍLIO DO PROFESSOR PARA O ESTUDO PRÁTICA DO DESENVOLVIMENTO WEB!**
+
+## 📃 DESAFIOS SUPERADOS:
+**Melhora na organização, melhor entendimento da centralização de elementos e emprego de espaçamentos.**
